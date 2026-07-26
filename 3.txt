@@ -1,5 +1,0 @@
-this is three .txt
-
-the blue
-
-extra line
